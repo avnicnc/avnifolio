@@ -60,9 +60,9 @@ export default async function Home() {
               </span>
             ) : (
               <span>
-                 Build the projec{" "}
+                Building robust web experiences from{" "}
                 <span className="bg-gradient-to-r from-violet-400 via-indigo-300 to-purple-400 bg-clip-text text-transparent">
-                  and deploye noww.
+                  concept to production
                 </span>
                 .
               </span>
