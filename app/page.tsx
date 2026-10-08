@@ -60,9 +60,9 @@ export default async function Home() {
               </span>
             ) : (
               <span>
-                Build the project from scratch{" "}
+                 Build the projec{" "}
                 <span className="bg-gradient-to-r from-violet-400 via-indigo-300 to-purple-400 bg-clip-text text-transparent">
-                  and its ready to deply.
+                  and deploye noww.
                 </span>
                 .
               </span>
